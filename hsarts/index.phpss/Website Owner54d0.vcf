@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Owner;Website;
+FN:Website Owner
+TITLE:website owner
+TEL;TYPE=WORK,VOICE:+1 800 559 6580
+TEL;TYPE=WORK,FAX: +1 504 889 9898
+TEL;TYPE=WORK,MOBILE:+1 959 603 6035
+ADR;TYPE=WORK:;;138 Atlantis Ln;Kingsport;Illinois;121164;U.S.
+LABEL;TYPE=WORK:138 Atlantis Ln
+Kingsport
+Illinois
+121164
+U.S.
+EMAIL;TYPE=PREF,INTERNET:mail@demolink.org
+URL:http://demolink.org
+REV:2012-12-20T08:46:26-05:00Z
+END:VCARD
